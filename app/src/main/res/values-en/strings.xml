@@ -1,0 +1,13 @@
+<resources>
+         <string name = "app_name"> Guess number! </string>
+         <string name = "behind"> Flight! </string>
+         <string name = "ahead"> Undershoot! </string>
+         <string name = "hit"> At the point! </string>
+         <string name = "input_value"> Enter the value! </string>
+         <string name = "play_more"> Play More </string>
+         <string name = "try_to_guess"> Try to guess the number (1 - 100) </string>
+         <string name = "error"> Invalid Input! </string>
+         <string name = "wrong_input"> You did not enter anything! </string>
+         <string name = "out_of_bounds_input"> The number outside the interval </string>
+         <string name = "try_amount"> Number of attempts: </string>
+</resources>
